@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>Js</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+        input, button {
+            display: block;
+            margin: 10px;
+        }
+       
+        button {
+            border-radius: 10px;
+            border: none;
+            color:#fff;
+            background-color: #000;
+            padding:10px;
+        } 
+
+        .container {
+            margin: auto 50px;
+            padding: 20px ;
+            background-color: #eee;
+            border-radius: 20px;        }
+
+    </style>
+</head>
+<body>
+    <h1>Digite 3 números para calcular a média:</h1>
+    <div class="container">
+        <input type="number" id="a">
+        <input type="number" id="b">
+        <input type="number" id="c">
+    
+        <button onclick="obterMedia()">Calcular Média</button>
+        <div id="resultado">
+
+        </div>
+    </div>
+</body>
