@@ -5,7 +5,7 @@
 4. Terceira entrada : maço de alfafa;
 
 ## Processo 
-Primeiro atravessa o rio com a cabra , depois com o maço de alfafa , traz a cabra de volta depois a travessa o rio com o lobo e por fim volta e atravessa com a cabra.
+Primeiro atravessa o rio com a cabra , depois com o maço de alfafa , traz a cabra de volta e depois a travessa o rio com o lobo e por fim volta e atravessa com a cabra.
 
 ## Resultado
  atravessia segura com os três.
